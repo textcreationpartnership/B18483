@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most safe and effectual cure for the rickets, and means to preserve children from the same.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18483</idno><idno type="EEBO-CITATION">99888603</idno>
+  <idno type="VID">195827</idno>
+  <idno type="EEBO-PROQUEST">2240903385</idno>
+  
+            <idno type="STC">Wing C529A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[22]</idno>
+            <idno type="STC">ESTC R231251</idno>
+            <idno type="PROQUEST">ocm99888603</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888603e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195827)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most safe and effectual cure for the rickets, and means to preserve children from the same.</title>
+                  <author>Care, Henry, 1646-1688.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) :   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Henry Care.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Rickets --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:195827:1"/>
+            <pb facs="tcp:195827:1"/>
+            <head>A most Safe and Effectual CURE for the RICKETS, And means to Preserve Children from the same.</head>
+            <p>THis Disease (unknown to our Fore-fathers) being now become so common that most Children are more or less Afflicted with it, Killing many with lingering Pains, and rendering the whole lives of others uncomfortable by the sad Effects, <hi>viz.</hi> Weakness, Crookedness, shortness of Breath, Con<g ref="char:EOLhyphen"/>sumptions, and many other Infirmities which it leaves Imprinted on their tender Bo<g ref="char:EOLhyphen"/>dies, or at least is the original occasion of, though sometimes they appear not till se<g ref="char:EOLhyphen"/>veral years after; and all this through want of due and Efficacious Remedies season<g ref="char:EOLhyphen"/>ably applied. I have therefore thought fit to Advertise the Parents and Friends of such Languishing Infants of a most <hi>Soveraign Medicine,</hi> which both Cures and Pre<g ref="char:EOLhyphen"/>vents that distemper, being an excellent and carefully prepared Powder of divers pow<g ref="char:EOLhyphen"/>erful Specifick Ingredients; neither loathsome to the Tast, nor Purging, Vomiting, or making Children Sick that take it, but gently opens Obstructions of the Liver and Spleen, and thereby brings an equal distribution of nourishment to all the parts, and removes that stupefaction of the Nerves and Arteries, wherein the Root of this Di<g ref="char:EOLhyphen"/>sease mainly consists (as in that incomparable Treatise <hi>De Rachitide,</hi> is judiciously observ'd) and thus preserves the Body from, or subdues the said Disease with all its Symptomes, by removing the causes thereof.</p>
+            <p>All which it performs by known and accountable Vertues, justified as well by Rea<g ref="char:EOLhyphen"/>son, as the concurrent Testimony of Experience, having been a means to save the Lives and restore many Afflicted Children when all other Medicines that could be procured, prov'd ineffectual: <hi>Non opus est verbis,—Exitus Acta Probet.</hi>
+            </p>
+            <p>For better Conveniency to those living at a distance, I have disposed it in Papers Sealed, each containing four and Twenty Doses, with Printed Directions for its use, price 2s. 6d. One of these Papers frequently performs a Cure, But where the Di<g ref="char:EOLhyphen"/>sease is Inveterate, and far grown, it may require 2. or 3. at most, nor shall you fail of finding a sensible amendment on the first: And as they must be very indiscreet that can expect such a Chronical Distemper as this can be perfectly rooted out in a day or two, or without following it with proper Medicines for some considerable time: So certainly they love Mony too much, and their Children too little, That shall Refuse or Repine to bestow five Shillings when need is, to secure the Life, Limbs, and future health of their otherwise helpless Infant.</p>
+            <p>This Powder is to be sold
+<list>
+                  <item>By Mr. <hi>Benjamin Harris</hi> Bookseller in <hi>Sweeting-Ally</hi> near the Royal Exchange.</item>
+                  <item>Mr. <hi>William Whitwood</hi> Bookseller in <hi>Duck-lane</hi> near <hi>Smithfield.</hi>
+                  </item>
+                  <item>And by the Author at the sign of the <hi>Blew Ball</hi> near the Kings Printing-house in <hi>Black-Fryers,</hi> and not elsewhere.</item>
+               </list>
+            </p>
+            <p>There will next term be Published a Book of <hi>Practical Physick,</hi> being several choice pieces of <hi>Sennertus,</hi> Translated by the Author hereof; who is likewise pre<g ref="char:EOLhyphen"/>paring for the Press a Treatise, Intituled, <hi>A Guide for Nurses,</hi> wherein the Causes and Cure of all Diseases commonly incident to Children, are plainly set forth and discussed, To be sold by the Booksellers aforesaid.</p>
+            <q>Infelix Cujus Nulli —</q>
+            <pb facs="tcp:195827:2"/>
+            <pb facs="tcp:195827:2"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
